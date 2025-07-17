@@ -4,5 +4,5 @@
     echo "Mahanakorn";
     echo "Map";
     echo "About me";
-
+    echo "Home";
 ?>
